@@ -1,0 +1,35 @@
+<------Changelog Infinity X------>
+
+ v3.11 - 03/07/26'
+• Statusbar width fixed(suggestion and tested by @Xtr_13 )
+• Reduced log spams
+• Fix some Custom ROM/Root detection
+• Improved app Opening
+• Reduced Recording lag
+• Improved overall UI
+• Define missing Configs
+• Improved CPU and RAM Consumption
+• Time for sleep is Highly Reduced
+• Reduce graphics memory consumption
+• Improved charging speed(thanks to @meowzyOfficial)
+• Fixed some Indian app not opening or crashes
+
+v3.11 - 12/06/26'
+• Improved Blur
+• Improve app launch timing
+• Disabled useless logging
+• added missing props and configs
+• fix some detections
+• Improved smoothness and BB
+• sleep time improved
+
+v3.10 - 31/05/26'
+• Dolby + Viperfx 
+• More optimization around Sm8350
+• User build
+
+v3.9 - 16/04/26' 
+• Initial release 
+• Flashlight Intensity controller Implemented 
+• Micam and lunaris Dolby included
+• Fixed statusbar alignment
