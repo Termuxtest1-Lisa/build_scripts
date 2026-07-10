@@ -1,5 +1,8 @@
 <------Changelog Infinity X------>
 
+ v3.12 - 11/07/26'
+• Added Unofficial OTA support
+
  v3.11 - 03/07/26'
 • Statusbar width fixed(suggestion and tested by @Xtr_13 )
 • Reduced log spams
